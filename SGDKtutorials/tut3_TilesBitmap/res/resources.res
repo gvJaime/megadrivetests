@@ -1,1 +1,1 @@
-IMAGE moon "moon.bmp" 0
+BITMAP moon "moon.bmp" 0
