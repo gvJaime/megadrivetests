@@ -1,0 +1,1 @@
+IMAGE bga_image "img/bga.bmp" BEST

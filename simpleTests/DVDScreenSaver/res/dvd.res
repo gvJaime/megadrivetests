@@ -1,0 +1,1 @@
+SPRITE dvd "dvd/dvd.bmp" 8 8 NONE 1
