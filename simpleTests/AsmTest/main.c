@@ -9,7 +9,7 @@ main()
     b = 0;
     b = add2(a);
 
-    if(a == 2) VDP_drawText("b is 2", 10, 13);
+    if(b == 2) VDP_drawText("b is 2", 10, 13);
     else VDP_drawText("b is not 2", 10, 13);
 
 	while(1)
